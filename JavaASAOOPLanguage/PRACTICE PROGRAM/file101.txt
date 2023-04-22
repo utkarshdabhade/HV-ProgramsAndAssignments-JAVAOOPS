@@ -1,0 +1,7 @@
+Employee ID:101
+Employee Name     :Utk
+Father's Name     :Gok
+Employee Contact  :899
+Email Information :utk
+Employee position :admin
+Employee Salary   :1000

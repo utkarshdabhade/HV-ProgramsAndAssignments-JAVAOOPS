@@ -1,0 +1,5 @@
+Apartment No:102
+Apartment Name     :Sameer
+Apartment floor     :3rd
+Apartment Contact  :12345
+Email Information :utk123
